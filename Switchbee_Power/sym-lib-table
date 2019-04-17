@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Adafruit_PowerRelay_Wing-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Adafruit_PowerRelay_Wing-eagle-import.lib)(options "")(descr ""))
+  (lib (name mp3b)(type Legacy)(uri ${KIPRJMOD}/mp3b.lib)(options "")(descr ""))
+  (lib (name SchSym)(type Legacy)(uri ${KIPRJMOD}/SchSym.lib)(options "")(descr ""))
+  (lib (name XBee-Explorer-eagle-import)(type Legacy)(uri ${KIPRJMOD}/XBee-Explorer-eagle-import.lib)(options "")(descr ""))
+  (lib (name Switchbee2-rescue)(type Legacy)(uri ${KIPRJMOD}/Switchbee2-rescue.lib)(options "")(descr ""))
+)
